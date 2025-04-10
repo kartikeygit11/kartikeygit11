@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartikey Srivastava</h1>
 <h3 align="center">A passionate Spring Boot and Java Devloper from India</h3>
 
-- Projects I'm Proud of [Linklytics-Url Shortning and Analysisaly](https://ornate-clafoutis-1c2c08.netlify.app/)
+- Projects I'm Proud of [Linklytics-Url Shortning and Analysis](https://ornate-clafoutis-1c2c08.netlify.app/)
 
 - 🌱 I’m currently learning **Spring Boot,Java and React**
 
