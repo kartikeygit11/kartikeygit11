@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartikey Srivastava</h1>
 
 <p align="center">
-  <img src="Animation%20-%201752077563223.gif" width="300" alt="Greeting Animation" />
+  <img src="profile-animation.gif" width="300" alt="Greeting Animation" />
 </p>
 
 <h3 align="center">A passionate Spring Boot and Java Developer from India</h3>
