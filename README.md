@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Spring Boot and Java Developer from India</h3>
 
-- Projects I'm Proud of [Linklytics-Url Shortning and Analysis](https://ornate-clafoutis-1c2c08.netlify.app/)
+- Projects I'm Proud of [Linklytics - URL Shortening and Analysis](https://ornate-clafoutis-1c2c08.netlify.app/)
 
 - 🌱 I’m currently learning **Spring Boot, Java and React**
 
@@ -73,3 +73,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeygit11&show_icons=true&locale=en&layout=compact" alt="kartikeygit11" />
 </p>
 
+<!-- 🌟 GITHUB STREAK SECTION -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeygit11&theme=default" alt="kartikeygit11-streak" />
+</p>
