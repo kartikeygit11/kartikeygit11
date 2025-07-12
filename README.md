@@ -77,3 +77,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeygit11&" alt="kartikeygit11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikeygit11&show_icons=true&locale=en" alt="kartikeygit11" /></p>
