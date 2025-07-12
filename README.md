@@ -74,6 +74,6 @@
 </p>
 
 <!-- 🌟 GITHUB STREAK SECTION -->
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeygit11&theme=default" alt="kartikeygit11-streak" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeygit11&show_icons=true&locale=en&layout=compact" alt="kartikeygit11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeygit11&" alt="kartikeygit11" /></p>
